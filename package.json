@@ -1,0 +1,7 @@
+{
+  "name": "Node-LDAP-Test",
+  "description": "A node app to LDAP integration with a windows domain",
+  "dependencies": {
+    "ldap-client": "^3.1.3"
+  }
+}
